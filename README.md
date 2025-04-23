@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guhan N S</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I'm currently learning **Full Stack Developement**
+- 🌱 I have 3 years of experience as a **Full Stack Developer** specializing in the **MERN stack (MongoDB, Express.js, React, Node.js)**.
 
 - 👨‍💻 All of my projects are available at [https://guhan-protfolio-mysite.netlify.app/](https://guhan-protfolio-mysite.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,NODEJS**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGODB**
 
 - 📫 How to reach me **neelakandanguhan@gmail.com**
 
